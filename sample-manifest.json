@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0bbaa85c-fd3d-4045-b904-05ecde27c494",
+  "export_job_id": "a972aca6-fe0f-497c-828b-bce8dba8c9a6",
   "id_short": 747596,
-  "published_at": "2026-04-23T07:26:11Z",
+  "published_at": "2026-04-29T19:34:46Z",
   "repo_name": "restaurant-verified-email-access-in-connecticut-us-sample-747596",
   "sample_asset_name": "beamstation_747596_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/747596/beamstation_747596_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 176,
-  "sample_sha256": "3c96b76ce6129d6407b995e234fef2093e31df3e110e84f1ff20eaef08610a5c",
-  "sample_size_bytes": 700931,
-  "total_records": 1769
+  "sample_records": 217,
+  "sample_sha256": "ca6c72050df586a03b785e4c673c0da4a38ff42af70043f71aba172222e261a3",
+  "sample_size_bytes": 805662,
+  "total_records": 2177
 }
