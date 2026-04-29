@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Connecticut, US
 
-> Free BeamStation sample export with 176 rows and masked direct-contact fields.
+> Free BeamStation sample export with 217 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `747596` |
 | Location | Connecticut |
 | Category | Restaurants |
-| Full dataset size | 1,769 records |
-| Free sample size | 176 records (9.95%) |
-| Last export | 2026-04-22T09:33:22.912342+00:00 |
+| Full dataset size | 2,177 records |
+| Free sample size | 217 records (9.97%) |
+| Last export | 2026-04-29T11:06:18.136075+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-connecticut-us-sample-747596/releases/download/sample-latest/beamstation_747596_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
